@@ -1,7 +1,8 @@
 # This is My Profile
 
 ## Software Engineering
- HEAD![Headpicture](assets/images/Headpicture.jpg)
+## *HEAD
+![Headpicture](assets/images/Headpicture.jpg)
 
 
 

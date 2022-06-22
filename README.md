@@ -1,13 +1,13 @@
 # This is My Profile
 
 ## Software Engineering
-<<<<<<< HEAD![Headpicture](assets/Headpicture.jpg)
+<<<<<<< HEAD![Headpicture](assets/images/Headpicture.jpg)
 
 
 
 =======
 ## *Home Page
-![Homepage](assets/Homepage.png)
+![Homepage](assets/images/Homepage.png)
 
 
 

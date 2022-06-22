@@ -4,9 +4,12 @@
 <<<<<<< HEAD![Headpicture](assets/Headpicture.jpg)
 
 
+
 =======
 ## *Home Page
-![Image of Era](assests/images/Homepage.png)
+![Homepage](Homepage](assets/Homepage.png)
+
+
 
 # Links
 

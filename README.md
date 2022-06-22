@@ -1,8 +1,9 @@
 # This is My Profile
 
 ## Software Engineering
-<<<<<<< HEAD
-![This is an image](assests/images/Headpicture.jpg)
+<<<<<<< HEAD![Headpicture](assests/images/Headpicture.jpg)
+
+
 =======
 ## *Home Page
 ![Image of Era](assests/images/Homepage.png)
